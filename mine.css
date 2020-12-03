@@ -1,0 +1,87 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+#mine {
+    margin: 50px auto;
+}
+.level{
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+button{
+    padding: 3px 15px;
+    margin-left: 10px;
+    border-radius: 10px;
+    background-color:#eee;
+    outline: none;
+}
+table{
+    border-spacing: 1px;
+    background-color: #929196;
+    margin: 0 auto;
+}
+td{
+    padding: 0;
+    width: 20px;
+    height: 20px;
+    background-color: #ccc;
+    border: 2px solid;
+    border-color: #fff #a1a1a1 #a1a1a1 #fff;
+    text-align: center;
+    line-height: 20px;
+    font-weight: bold;
+}
+.info{
+    text-align: center;
+    margin-top: 20px;
+}
+.mine{
+    background: #d9d9d9 url(mine.png) no-repeat center;
+    background-size: cover;
+    border-color: #d9d9d9;
+}
+.mark{
+    background: #ccc url(mark.png) no-repeat center;
+    background-size: cover;
+}
+.active{
+    background: cornflowerblue;
+}
+.zero{
+    border-color: #d9d9d9;
+    background: #d9d9d9;
+}
+.one{
+    border-color: #d9d9d9;
+    background: #d9d9d9;
+}
+.two{
+    border-color: #d9d9d9;
+    background: #d9d9d9;
+}
+.three{
+    border-color: #d9d9d9;
+    background: #d9d9d9;
+}
+.four{
+    border-color: #d9d9d9;
+    background: #d9d9d9;
+}
+.five{
+    border-color: #d9d9d9;
+    background: #d9d9d9;
+}
+.six{
+    border-color: #d9d9d9;
+    background: #d9d9d9;
+}
+.seven{
+    border-color: #d9d9d9;
+    background: #d9d9d9;
+}
+.eight{
+    border-color: #d9d9d9;
+    background: #d9d9d9;
+}
